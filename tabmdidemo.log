@@ -1,0 +1,188 @@
+//本日志文件由Tabbar Add-in(1.14.1463) For Visual C++ 6.0自动生成
+//项目文件：D:\A张聪\MyWare\TabMDIDemo\TabMDIDemo.dsp
+//如果文件太大可以删除除第一节以外的其他部分
+
+[MAIN]
+nBuildNumber = 26
+
+[Build00000001]
+sStartTime = 2003-08-26 16:20:34
+sCompileUser = 大同县开闭所
+nErrors = 1
+nWarns = 0
+sEndTime = 2003-08-26 16:20:43
+
+[Build00000002]
+sStartTime = 2003-08-26 16:21:14
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-26 16:21:16
+
+[Build00000003]
+sStartTime = 2003-08-26 16:23:03
+sCompileUser = 大同县开闭所
+nErrors = 4
+nWarns = 0
+sEndTime = 2003-08-26 16:23:03
+
+[Build00000004]
+sStartTime = 2003-08-26 16:23:36
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-26 16:23:37
+
+[Build00000005]
+sStartTime = 2003-08-26 16:25:29
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-26 16:25:30
+
+[Build00000006]
+sStartTime = 2003-08-26 16:26:05
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-26 16:26:06
+
+[Build00000007]
+sStartTime = 2003-08-26 16:29:30
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-26 16:29:30
+
+[Build00000008]
+sStartTime = 2003-08-26 16:30:32
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-26 16:30:33
+
+[Build00000009]
+sStartTime = 2003-08-26 17:10:55
+sCompileUser = 大同县开闭所
+nErrors = 1
+nWarns = 0
+sEndTime = 2003-08-26 17:10:57
+
+[Build00000010]
+sStartTime = 2003-08-26 17:11:48
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-26 17:11:50
+
+[Build00000011]
+sStartTime = 2003-08-27 12:55:55
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-27 12:55:57
+
+[Build00000012]
+sStartTime = 2003-08-27 13:00:04
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-27 13:00:05
+
+[Build00000013]
+sStartTime = 2003-08-27 13:00:44
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-27 13:00:44
+
+[Build00000014]
+sStartTime = 2003-08-27 13:04:33
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-27 13:04:36
+
+[Build00000015]
+sStartTime = 2003-08-27 13:06:12
+sCompileUser = 大同县开闭所
+nErrors = 1
+nWarns = 0
+sEndTime = 2003-08-27 13:06:13
+
+[Build00000016]
+sStartTime = 2003-08-27 13:06:19
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-27 13:06:20
+
+[Build00000017]
+sStartTime = 2003-08-27 13:07:22
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-27 13:07:23
+
+[Build00000018]
+sStartTime = 2003-08-27 13:08:03
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-27 13:08:05
+
+[Build00000019]
+sStartTime = 2003-08-27 13:08:48
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-27 13:08:49
+
+[Build00000020]
+sStartTime = 2003-08-27 13:10:36
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-27 13:10:37
+
+[Build00000021]
+sStartTime = 2003-08-27 13:20:06
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-27 13:20:07
+
+[Build00000022]
+sStartTime = 2003-08-27 13:37:15
+sCompileUser = 大同县开闭所
+nErrors = 4
+nWarns = 0
+sEndTime = 2003-08-27 13:37:17
+
+[Build00000023]
+sStartTime = 2003-08-27 13:38:01
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-27 13:38:02
+
+[Build00000024]
+sStartTime = 2003-08-27 13:40:42
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-27 13:40:43
+
+[Build00000025]
+sStartTime = 2003-08-27 13:43:33
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-27 13:43:34
+
+[Build00000026]
+sStartTime = 2003-08-27 13:55:13
+sCompileUser = 大同县开闭所
+nErrors = 0
+nWarns = 0
+sEndTime = 2003-08-27 13:55:14
